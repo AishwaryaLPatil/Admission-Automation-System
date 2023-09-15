@@ -5,8 +5,8 @@ This system covers the entire admission workflow, starting from the COMEDK exam 
 
 ### Team Members
 
-Akshatha M K
+Akshatha M K: https://github.com/Akshathamk-123
 
-A Geethika Chowdary
+A Geethika Chowdary: https://github.com/AGeethikachowdary
 
-Aditi Mallya
+Aditi Mallya: https://github.com/adiy-13
