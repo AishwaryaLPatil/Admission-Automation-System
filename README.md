@@ -1,12 +1,25 @@
-# Admission-Automation-System
+# Online Admission System
 
-The Admission Automation System (AAS) is a software project designed to streamline and automate the admission process for professional courses conducted by COMEDK. 
-This system covers the entire admission workflow, starting from the COMEDK exam application to student admission in colleges based on their preferences and rankings.
 
-### Team Members
+•	The system enables the student to fill application forms online and submit it. They also submit their necessary documents like passport size photograph, certificates and marksheets along with the identity proof. 
 
-Akshatha M K: https://github.com/Akshathamk-123
+•	The Manager can view the application forms and can approve or disapprove them. He can submit the CUEE marks of the students.
 
-A Geethika Chowdary: https://github.com/AGeethikachowdary
+•	If it is approved, an email will be sent to the Student’s email ID and the admit card can be downloaded from the student’s account. The students can further view their results. 
 
-Aditi Mallya: https://github.com/adiy-13
+•	This system helps in reducing the manual efforts and consumes less time.
+
+OBJECTIVE
+
+
+•	To reduce the processing time and acquire more accurate information. 
+
+•	To ensure reliability.
+
+•	Generate Student’s Academic Detail Report.
+
+•	Generate Student’s Personal Detail Report along with the necessary documents.
+
+•	Database maintained by this system usually contains the student’s personal and academic related information. It focuses on storing and processing data by using web pages.
+
+•	To make the system more user friendly. 
